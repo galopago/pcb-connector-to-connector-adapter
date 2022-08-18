@@ -1,6 +1,6 @@
 # SMA to U.FL adapter PCB
 
-This board was created to convert  U.FL antennas and SMA connector like the one found on Nano VNA.
+This board was created to convert U.FL antennas to SMA connector like the one found on Nano VNA.
 
 ![PCB 3D picture](/sma-u-fl/assets/img/pcbadapter.jpg)
 

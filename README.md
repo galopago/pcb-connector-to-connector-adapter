@@ -8,15 +8,15 @@ Read this in other languages: [Español](/assets/markdown/README.es.md)
 
 There are several board types, each one with different personalities
 
-2x5 Male 1.27 mm to Male 2.54 mm                               | TP5000 LiFePO4 battery charger                
----------------------------------------------------------------|-----------------------------------------------
-![](/2x5-1-27-to-2x5-2-54/assets/img/pcbadapter.jpg) | ![](/tp5000/assets/img/tp5000-module.jpg) 
+2x5 Male 1.27 mm to Male 2.54 mm                     | SMA to U.FL                
+-----------------------------------------------------|-----------------------------------------------
+![](/2x5-1-27-to-2x5-2-54/assets/img/pcbadapter.jpg) | ![](/sma-u-fl/assets/img/pcbadapter.jpg) 
 
 
 | HINT                            | LINK                                     
 |---------------------------------|-----------------------------
 | 2x5 Male 1.27 mm to Male 2.54 mm| [2x5-1-27-to-2x5-2-54](/2x5-1-27-to-2x5-2-54/)  
-| TP5000 LiFePO4 battery charger  | [TP5000](/tp5000/)  
+| SMA to U.FL                     | [sma-u-fl](/sma-u-fl/)  
 
 
 

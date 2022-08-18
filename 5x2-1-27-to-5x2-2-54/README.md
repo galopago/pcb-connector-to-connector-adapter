@@ -2,9 +2,7 @@
 
 This board was created to convert  between the "small" J-Link EDU Mini Programmer-Debbuger 1.27 mm pitch connector to a 2.54 mm male header.
 
-*Read this in other languages: [Español](/docs/README.es.md)*
-
-![PCB 3D picture](docs/pcb3d.png)
+![PCB 3D picture](assets/5x2-1-27-to-5x2-2-54.png)
 
 The J-Link EDU Mini sports a 2x5 1.27 mm male connector and includes a female to female 2x5 1.27 mm ribbon cable for target connection.
 

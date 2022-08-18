@@ -2,11 +2,20 @@
 
 This board was created to convert  between the "small" J-Link EDU Mini Programmer-Debbuger 1.27 mm pitch connector to a 2.54 mm male header.
 
-![PCB 3D picture](/2x5-1-27-to-2x5-2-54/assets/img/2x5-1-27-to-2x5-2-54.png)
+![PCB 3D picture](/2x5-1-27-to-2x5-2-54/assets/img/pcbadapter.jpg)
 
 The J-Link EDU Mini sports a 2x5 1.27 mm male connector and includes a female to female 2x5 1.27 mm ribbon cable for target connection.
 
 If for some reason your target doesn't have the same connector (debug pins scattered somewhere on the PCB), or want to connect to a circuit on a breadboard, this PCB will ease the task. 
+
+PCB FRONT                                          | PCB BACK
+---------------------------------------------------|----------------------------------------------
+![](/2x5-1-27-to-2x5-2-54/assets/img/pcbfront.jpg) |![](/2x5-1-27-to-2x5-2-54/assets/img/pcbback.jpg) 
+
+
+## Panelized PCB
+![](/2x5-1-27-to-2x5-2-54/assets/img/pcbpanel.jpg)
+
 ## How to use this repository
 
 The PCB was developed in KiCad V6.0.

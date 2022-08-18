@@ -1629,7 +1629,7 @@
   (gr_text "1" (at 101.6 110.49 90) (layer "F.SilkS") (tstamp 29f8e753-2183-491c-a598-403a083e2bf6)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text "ADAP-1.27-2-54" (at 108.22 113.665) (layer "F.SilkS") (tstamp 7bdc26ac-3a23-4419-bee6-31e5129f27fa)
+  (gr_text "ADAP-1.27-2.54" (at 108.22 113.665) (layer "F.SilkS") (tstamp 7bdc26ac-3a23-4419-bee6-31e5129f27fa)
     (effects (font (size 1 1) (thickness 0.15)))
   )
 
